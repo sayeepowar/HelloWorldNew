@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">EMI Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_message">Enter Principal</string>
+    <string name="principal_ip_text">Principal</string>
+    <string name="principal_ip_hint">Enter Principal Amount</string>
+    <string name="interest_ip_text">Interest</string>
+    <string name="interest_ip_hint">Enter Interest Amount</string>
+    <string name="tenor_ip_text">Tenure</string>
+    <string name="tenor_ip_hint">Enter Tenor</string>
+    <string name="startdate_ip_text">Start Date</string>
+    <string name="emidate_ip_text">EMI Date</string>
+    <string name="emidate_ip_hint">Select Date</string>
+    <string name="button_calendar">Date</string>
+    <string name="button_send">Send</string>
+    <string name="button_calculate">Calculate</string>
+    <string name="title_activity_emicalculator1">EMI Amount</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
